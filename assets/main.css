@@ -16,14 +16,13 @@
 /* Body */
 body {
     background-color: var(--light-gray);
-    padding: 5% 10%;
+    padding: 5% 20%;
 }
 
 /* Main Container */
 .main-container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    /* word-break: break-word; */
 }
 
 img {
@@ -41,7 +40,7 @@ p, a {
     color: var(--p-white);
     font-family: 'Lexend Deca', sans-serif;
     line-height: 25px;
-    height: 150px;
+    height: 160px;
 }
 
 p {
